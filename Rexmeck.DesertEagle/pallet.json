@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "Rexmeck.DesertEagle",
+      "title": "DesertEagle",
+      "description": "Useable Handcannon",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Rexmeck",
+      "version": "0.1.3",
+      "sdkVersion": "0.3.6-1705",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:4",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:5",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "Rexmeck.MyPallet.Spawnable.Deagle",
+      "title": "Deagle",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "310a1b4b44356a54382a6a961b70305f",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "d06cec0e878214d46b42415a43d5a5cb"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 2.42143869E-08,
+          "y": -0.0376767442,
+          "z": 0.03127014
+        },
+        "extents": {
+          "x": 0.0200000145,
+          "y": 0.0676693,
+          "z": 0.115896568
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "Rexmeck.MyPallet.Spawnable.MagDeagle",
+      "title": "Mag_Deagle",
+      "description": "",
+      "unlockable": false,
+      "redacted": true,
+      "mainAsset": "569ef5c7f8a944e48a74d2d325d66bc6",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "1312d1817f66ee245b76abe4dfd22285"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 3.7252903E-09,
+          "y": -0.00935385749,
+          "z": 0.0167246684
+        },
+        "extents": {
+          "x": 0.0299999937,
+          "y": 0.046946317,
+          "z": 0.08647534
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:4": {
+      "barcode": "Rexmeck.DesertEagle.Spawnable.Cartridge50ae",
+      "title": "Cartridge - 50ae",
+      "description": "",
+      "unlockable": false,
+      "redacted": true,
+      "mainAsset": "09824a3f2ec455c49a99024a4ca86b1e",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "b608da68ec8fe2e44933694208efca14"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.00600000238,
+          "y": 0.006,
+          "z": 0.0250000022
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:5": {
+      "barcode": "Rexmeck.DesertEagle.Spawnable.CartridgeCase50ae",
+      "title": "Cartridge Case - 50ae",
+      "description": "",
+      "unlockable": false,
+      "redacted": true,
+      "mainAsset": "cccc5a012bfd5b4498b03ef380741f52",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "d1ac33e5a4567db4a93a6022530ad0aa"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.005000001
+        },
+        "extents": {
+          "x": 0.00512950355,
+          "y": 0.005129501,
+          "z": 0.025
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.SpawnableCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}

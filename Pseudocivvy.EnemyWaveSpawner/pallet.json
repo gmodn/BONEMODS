@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner",
+      "title": "Enemy Wave Spawner",
+      "description": "Adds some cool wave spawners to the game!",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Pseudocivvy",
+      "version": "1.0.0",
+      "sdkVersion": "0.3.5-preview",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:4",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:5",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:6",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:7",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:8",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerCrablets",
+      "title": "Enemy Wave Spawner (Crablets)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "82b770f575178dc4798250b5e90d6a43",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "8b04ef6c3a7176b4b9d69ab5b0437f21"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerNormal",
+      "title": "Enemy Wave Spawner (Normal)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "43d6c26f198fd514abe35f9e081d1ddc",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "702f9b6cf62ebae40a2b43fff7a513af"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:4": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerNullbodies",
+      "title": "Enemy Wave Spawner (Nullbodies)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "4070ee4484662364fb23372de87c9943",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "ed2e227733e387442b3a53f4aebae156"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:5": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerPeasants",
+      "title": "Enemy Wave Spawner (Peasants)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "633fd8c76dc9366468dfe5cdf10f02f9",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "cca70bcf493faff4180bb393e00c9858"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:6": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerSecurity",
+      "title": "Enemy Wave Spawner (Security)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "5cd43304bc3385c419dfdbddd3734ef8",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "ee7e3bd016fd0ae47bab9ca85b3b8d70"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:7": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerSkeletons",
+      "title": "Enemy Wave Spawner (Skeletons)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "dad5ee916cff1024899aaa16127d9011",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "bdf695cda78d6de42b86caff770a68d9"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:8": {
+      "barcode": "Pseudocivvy.EnemyWaveSpawner.Spawnable.EnemyWaveSpawnerVRJunkies",
+      "title": "Enemy Wave Spawner (VR Junkies)",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "d3d64adceb2324f4d9776704855103cc",
+      "tags": [
+        "Enemy Wave Spawners"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "3638bb008f7b8d54083cb68e6ff8663f"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.0,
+          "y": 0.622115433,
+          "z": 2.0
+        },
+        "extents": {
+          "x": 0.104364276,
+          "y": 0.61615473,
+          "z": 0.104364157
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.SpawnableCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}

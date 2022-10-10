@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "WildFurball44.Gmod711Map",
+      "title": "Gmod711Map",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "WildFurball44",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.5-preview",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "WildFurball44.Gmod711Map.Level.GM711",
+      "title": "GM_711",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "f1b0614c0f2cfff4f8daeedf4b41ed5c",
+      "tags": [],
+      "packedAssets": [],
+      "multiscene": false,
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.LevelCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
