@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "IsaiahAngnakak.EnumBox",
+      "title": "EnumBox",
+      "description": "Experimental Testing Maps",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Isaiah Angnakak",
+      "version": "0.2.2",
+      "sdkVersion": "0.3.5-preview",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [
+        {
+          "version": "0.1.1",
+          "title": "First Build of EnumBox",
+          "text": "Amazing, Truly\n"
+        },
+        {
+          "version": "0.1.2",
+          "title": "Lighting Update",
+          "text": "Update Lighting\n"
+        },
+        {
+          "version": "0.2.0",
+          "title": "Major Update 1",
+          "text": "Update Lighting, Add Spawners, Add Weapons"
+        },
+        {
+          "version": "0.2.1",
+          "title": "Minor Update",
+          "text": "Fix Some Bugs"
+        },
+        {
+          "version": "0.2.2",
+          "title": "Spawner Fix",
+          "text": "plz work"
+        },
+        {
+          "version": "0.2.3",
+          "title": "Upload Build",
+          "text": "Everything should be working... Feel free to recommend features!"
+        },
+        {
+          "version": "0.3.0",
+          "title": "Moar Stuff!",
+          "text": "Holowalls, Spawners, Improved Lighting"
+        },
+        {
+          "version": "0.3.1",
+          "title": "Texture Update",
+          "text": "Thanks to my friend kit-kat for the new textures :)"
+        }
+      ],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "IsaiahAngnakak.EnumBox.Level.MyTestChamber",
+      "title": "My Test Chamber",
+      "description": "Small Testing Map ( DO NOT USE )",
+      "unlockable": false,
+      "redacted": true,
+      "mainAsset": "f00782ce0eaafb54da65aadab86da57a",
+      "tags": [],
+      "packedAssets": [],
+      "multiscene": false,
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "IsaiahAngnakak.EnumBox.Level.EnumBox",
+      "title": "EnumBox",
+      "description": "Small Sandbox Map",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "f00782ce0eaafb54da65aadab86da57a",
+      "tags": [],
+      "packedAssets": [],
+      "multiscene": false,
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.LevelCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
