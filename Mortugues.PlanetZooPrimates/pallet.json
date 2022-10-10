@@ -1,0 +1,383 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "Mortugues.PlanetZooPrimates",
+      "title": "Planet Zoo Primates",
+      "description": "Planet Zoo primates extracted by Mortuges | Thanks to siamaiden on VRChat for providing the siamang DLC files",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Mortugues",
+      "version": "1.0.0",
+      "sdkVersion": "0.3.4-1649",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:4",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:5",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:6",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:7",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:8",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:9",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:10",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:11",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [
+        {
+          "version": "1.0.0",
+          "title": "First Release!",
+          "text": "Thank you for downloading my mod! \n\nThis mod contains the following avatars:\nBonobo\nCapuchin\nChimpanzee\nGorilla\nJapanese Macaque\nMandrill\nOrangutan\nProboscis\nSiamang\nBONUS: Mortugues\n\nSubscribe to Mortugues on YouTube for monkey related VR content!"
+        }
+      ],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.BonobobyMortugues",
+      "title": "Bonobo by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "c0ee51ba41acc72428298dd780f2d754",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "2853200ac40b4e445a6815b0fc5db12e"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.CapuchinbyMortugues",
+      "title": "Capuchin by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "10ead86b12b11f04aa49d173b7949e66",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "eff1506d9e0d18d4893b700b81b12ceb"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:4": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.ChimpanzeebyMortugues",
+      "title": "Chimpanzee by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "8468cf2c7f052b444a6f8f094db12466",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "5ab43c807f3e80e4993a48e3cf0900b2"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:5": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.GorillabyMortugues",
+      "title": "Gorilla by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "1d1ea30dec55d1a40b311dfef5b568bf",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "d1444a964bdd45648a018ae654bca6d3"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:6": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.JapaneseMacaquebyMortugues",
+      "title": "Japanese Macaque by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "c3117ea3b6f11e74580b118f3cf6dcdc",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "f56f65b0bad90c542b885d35e92d6643"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:7": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.MandrillbyMortugues",
+      "title": "Mandrill by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "6e49260ea416c5a4196304e2f8f16267",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "50ecce263ccea544cb89bb474bb13333"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:8": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.OrangutanbyMortugues",
+      "title": "Orangutan by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "87d3e5d04ba278e458968735545b3b2c",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "a675c6e5d335b0f4c80d377cb4979c5b"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:9": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.ProboscisbyMortugues",
+      "title": "Proboscis by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "f00796d2e0e235a4f8f2e5488533b3d9",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "22f0442b8fe07024388ae69babf5a79c"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:10": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.SiamangbyMortugues",
+      "title": "Siamang by Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "ba19ad1e7d29c6a49851af042c03f17f",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "d8f4c479009fae74db0bb192fee8b9fd"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:11": {
+      "barcode": "Mortugues.PlanetZooPrimates.Avatar.BONUSMortugues",
+      "title": "BONUS! Mortugues",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "19ab424712c721945bd49f2deea9b0ec",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "805450b8551d2324c879a62b5964ffbf"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.AvatarCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}

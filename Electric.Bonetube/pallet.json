@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "Electric.Bonetube",
+      "title": "Bonetube",
+      "description": "A pool tube that feels like it floats on air!",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Electric",
+      "version": "0.0.1",
+      "sdkVersion": "0.3.6-1705",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "Electric.Bonetube.Spawnable.Bonetube",
+      "title": "Bonetube",
+      "description": "A pool tube that feels like it floats on air!",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "1c67a31a4e0c5da40af0f3f20b006727",
+      "tags": [
+        "Spawnable",
+        "Vehicle"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "174d13bd77e332043aab88a9ee984f68"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 3.4570694E-06,
+          "y": 0.06757648,
+          "z": 2.56299973E-06
+        },
+        "extents": {
+          "x": 0.784703851,
+          "y": 0.209430873,
+          "z": 0.7847039
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.SpawnableCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "BamBaeYoh.ZombieWeapons",
+      "title": "ZombieWeapons",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "BamBaeYoh",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.6-1705",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:4",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:5",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:6",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:7",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:8",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.Raygun",
+      "title": "Raygun",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "f55b3e5929395b647b5d7a393072ddd6",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "d725e3aeead84d1469c4834a58bbcc51"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": -0.1120227,
+          "y": 0.123887509,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 0.202977717,
+          "y": 0.118887573,
+          "z": 0.05
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.ThunderGun",
+      "title": "Thunder Gun",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "fbc29c2e25328d84d84b89c2b930481a",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "9e840b009c85db744b568f2a8589022b"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": -0.137292,
+          "y": 0.223681659,
+          "z": -0.038036868
+        },
+        "extents": {
+          "x": 0.43908903,
+          "y": 0.223681659,
+          "z": 0.149264932
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:4": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.QuickRevive",
+      "title": "Quick Revive",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "707fefd3e426e1f48a44b8d03bb6c30c",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "a811f7273a95bba49a24417bc5f42daf"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.001851201,
+          "y": 1.00575149,
+          "z": 0.156093091
+        },
+        "extents": {
+          "x": 0.6021426,
+          "y": 1.00331283,
+          "z": 0.438961536
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:5": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.Juggernog",
+      "title": "Juggernog",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "56f920db913dc1849a329da762034bfe",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "56e69cb46d23c434c81bb792d2772b54"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 3.27825546E-07,
+          "y": 1.4315871,
+          "z": 0.006735891
+        },
+        "extents": {
+          "x": 0.416852564,
+          "y": 1.42790139,
+          "z": 0.496798962
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:6": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.DoubleTap20",
+      "title": "Double Tap 2.0",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "4e4664ba88bd5ce4e92e99388dbfb9b0",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "c07acd5dae369d5429a3d8cff43be064"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 1.36938941,
+          "z": 0.07104823
+        },
+        "extents": {
+          "x": 0.7857299,
+          "y": 1.36939156,
+          "z": 0.385334581
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:7": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.SpeedCola",
+      "title": "Speed Cola",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "c6f9ffeb435dd6143995368b904ee904",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "61af21bc722b4cc46afcdcc8d6b6c8e1"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": -0.00419998169,
+          "y": 1.37957609,
+          "z": 0.06381771
+        },
+        "extents": {
+          "x": 0.6724806,
+          "y": 1.37957966,
+          "z": 0.4046238
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:8": {
+      "barcode": "BamBaeYoh.ZombieWeapons.Spawnable.PackAPunch",
+      "title": "Pack-A-Punch",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "303b602553afbad4284718a9d3872463",
+      "tags": [],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "cb055c4c54a006545ac91fb023f7fb69"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 1.31130219E-06,
+          "y": 1.22640169,
+          "z": 0.0690822
+        },
+        "extents": {
+          "x": 1.2134794,
+          "y": 1.226408,
+          "z": 0.6827137
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.SpawnableCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}

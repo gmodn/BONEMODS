@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "tochgl.InfiniteArena",
+      "title": "Infinite Arena",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "tochgl_",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.6-1692",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "tochgl.InfiniteArena.Level.InfiniteArena",
+      "title": "Infinite Arena",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "7d9d12ebb9856f6459c517fcf49acd57",
+      "tags": [],
+      "packedAssets": [],
+      "multiscene": false,
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.LevelCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
